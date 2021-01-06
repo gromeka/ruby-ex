@@ -297,6 +297,7 @@ $ git push</pre>
                     <li><a href="http://stackoverflow.com/questions/tagged/openshift">Stack Overflow questions for OpenShift</a></li>
                     <li><a href="http://git-scm.com/documentation">Git documentation</a></li>
                     <li><a href="http://git-scm.com/documentation">Sraka Praptaka i Flaka Boguslaw Linda i waniol</a></li>
+                    <li><a href="http://git-scm.com/documentation">ja tam wole coca-cole</a></li>
                   </ul>
 
 
